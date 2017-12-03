@@ -1,0 +1,195 @@
+1\Sweden\9
+2\United Kingdom\9
+3\Belgium\8
+4\Netherlands\8
+5\France\8
+6\Canada\8
+7\Denmark\8
+8\Reunion\8
+9\Iceland\8
+10\Finland\8
+11\Ireland\8
+12\Norway\7
+13\Spain\7
+14\Luxenbourg\7
+15\Uruguay\7
+16\Andorra\7
+17\Portugal\7
+18\Austria\7
+19\New Zealand\7
+20\Greenland\7
+21\Gibraltar\7
+22\Germany\6
+23\French Polynesia\6
+24\New Caledonia\6
+25\Malta\6
+26\Switzerland\6
+27\Brazil\6
+28\Slovenia\6
+29\Guadeloupe\5
+30\Martinique\5
+31 \Czech Republic\5
+32\Estonia\5
+33\Israel\5
+34\Argentina\4
+35\South Africa\4
+36\USA\4
+37\Australia\3
+38\Thailand\3
+39\Guam\3
+40\Colombia\3
+41\Puerto Rico\3
+42 Hungary 2
+43\Liechtenstein\2
+44\Ecuador\2
+45\Mexico\2
+46\Virgin Islands(USA)\2 
+47\Nepal\2
+48\Mozambique\2
+49\Macao\1
+50\Aruba\1
+51\Croatia\1
+52\Bosnia-Herzegovina\1
+53\Costa Rica\1
+54\Slovakia\1
+55\Bolivia\1
+56\Taiwan\1
+57\Italy\1
+58\Greece\1
+59\Cyprus\1
+60\Curacao\1
+61\Mongolia\1
+62\St. Maarten\0
+63\Bulgaria\0\
+64\Montenegro\0
+65\Romania\0\
+66\Benin\0\
+67\Cambodia\0 
+68\China/Hong Kong\0
+69\Philippines\0
+70\Vietnam\0
+71\Albania\0\
+72\British Virgin Islands\0
+73\Japan\0
+74\Nicaragua\0
+75\Kosovo\0
+76\Latvia\0
+77\Venezuela\0
+78\Bermuda\0
+79\Lithuania\0
+80\Poland\-1
+81\Guinea-Bissau\-1\
+82\Monaco\-1
+83\San Marino\-1 
+84\Kazakhstan\-1\
+85\Laos\-1\
+86\Moldova\-1\
+87\Chile\-1\
+88\Seychelles\-1
+89\Macedonia\-2\
+90\Azerbaijan\-2\
+91\Armenia11\-2\
+92\Serbia\-2
+93\Gabon\-2\
+94\Fiji\-2\
+95\Ukraine\-2\
+96\Vanuatu\-2\
+97\Cabo Verde\-2 
+98\El Salvador\-2 
+99\Honduras\-2\
+100\Panama\-2
+101\Singapore\-3
+102\Rwanda\-3\
+103\Georgia (Europe)\-3 
+104\Kyrgyzstan\-3
+105\Myanmar\-3\
+106\Tunisia\-3\
+107\Botswana13\-3
+108\Cuba\-3\
+109\Burkina Faso\-3 
+110\Mauritius\-3 
+111\Peru\-3
+112\Antigua & Barbuda\-4
+113\Equatorial Guinea\-4 
+114\Suriname\-4 
+115 Tajikistan -4 
+116\Trinidad & Tobago\-4
+117\Guatemala\-4\
+118\Korea\South\-4
+119\Lebanon\-4\
+120\Barbados\-4\
+121\Namibia\-4\
+122\Belize\-4
+123\Angola\-5\
+124\Dem.Rep. of Congo\-5 
+125\India\-5
+126\Sri Lanka\-5 
+127\Burundi\-5
+128\Republic of the Congo\-5 
+129\Samoa\-5 
+130\Sierra Leone\-5 
+131\Paraguay\-5
+132\Grenada\-5\
+133\Belarus\-5\
+134\Oman\-5\
+135\Syria\-5
+136\Madagascar\-5\
+137\Bahrain\-5\
+138\Ivory Coast\-5
+139\Haiti\-6
+140\Morocco\-6
+141\Kenya\-6
+142\Turkey\-6\
+143\Bhutan\-6\
+144\Brunei\-6\
+145\Central African Rep.\-6 
+146\Djibouti\-6\
+147\Eritrea\-6\
+148\Ghana\-6\
+149\Liberia\-6\
+150\Togo\-6\
+151\Tonga\-6
+152\Uzbekistan\-6\
+153\Zambia\-6\
+154\Pakistan\-6\
+155\Bahamas\-6\
+156\Malaysia\-6\
+157\Nigeria\-6
+158\Chad\-7
+159\Dominican Republic\-7
+160\Gambia\-7 
+161\Egypt\-7
+162\Comoros Islands\-7 
+163\Dominica\-7\
+164\Ethiopia\-7\
+165\Iraq\-7\
+166\Kuwait\-7\
+167\Mauritania\-7
+168\Papua New Guinea\-7 
+169\Senegal\-7 
+170\Solomon Islands\-7 
+171\Tanzania\-7
+172\Turkmenistan\-7 
+173\Maldives\-7
+174\Vatican City\-7
+175\Bangladesh\-8\
+176\Swaziland\-8
+177\Uganda\-8\
+178\Cook Islands\-8 
+179\Qatar\-8
+180\Sudan\-8\
+181\Zimbabwe\-8
+182\Jordan\-8
+183\Malawi\-9\
+184\Cameroon\-9
+185\Guyana\-9
+186\Libya\-9\
+187\Afghanistan\-9\
+188\Jamaica\-9\
+189\Russia\-9
+190\Yemen\-10\
+191\Saudi Arabia\-12
+192\United Arab Emirates\-13
+193\Iran\-13
+194\Somalia\-14
+195\St. Lucia\0

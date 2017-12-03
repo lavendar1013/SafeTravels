@@ -1,0 +1,27 @@
+Antigua and Barbuda|none|none
+Aruba|none|none
+Barbados|none|none
+British Virgin Islands|none|none
+Cayman Islands|none|none
+Colomobia|The U.S. Department of State warns U.S. citizens of the risk of travel to Colombia.  U.S. citizens should exercise caution, as violence linked to domestic insurgency, narco-trafficking crime, and kidnapping occur in some rural and urban areas.|Yellow fever vaccine must be administered at least 10 days before arrival in Colombia
+Costa Rica|none|Yellow fever vaccine is arriving from certain countries in South America or Africa
+Cuba|The Department of State warns U.S. citizens not to travel to Cuba.  Over the past several months, numerous U.S. Embassy Havana employees have been targeted in specific attacks. These employees have suffered significant injuries as a consequence of these attacks. Affected individuals have exhibited a range of physical symptoms including ear complaints and hearing loss, dizziness, headache, fatigue, cognitive issues, and difficulty sleeping.|none
+Domnican Republic|none|none
+Ecuador|none|Yellow fever vaccine required, if traveling in the Amazon Basin or to other South American destinations
+Grenada|none|No required vaccines, except when traveling from regions where Yellow Fever is endemic
+Haiti|The Department of State warns U.S. citizens to carefully consider the risks of traveling to Haiti due to its current security environment and lack of adequate medical facilities and response.|none
+Jamaica|none|none
+Mexico|The U.S. Department of State warns U.S. citizens about the risk of traveling to certain parts of Mexico due to the activities of criminal organizations in those areas.  U.S. citizens have been the victims of violent crimes, including homicide, kidnapping, carjacking, and robbery in various Mexican states.|none
+Peru|none|Yellow fever vaccination is recommended
+St. Maarten|none|none
+Bahamas|none|none
+Trinidad & Tobago|none|Routine vaccinations required
+Turks & Caicos Islands|none|none
+United States|none|none
+Puerto Rico|none|none
+Bermuda|none|none
+Curaco|none|none
+St. Lucia|none|none
+Virgin Islands(USA)|none|none
+
+
